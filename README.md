@@ -1,1 +1,1 @@
-# Projet-S-curiser-un-domaine-avec-PingCastle
+# Projet-Sécuriser-un-domaine-avec-PingCastle
